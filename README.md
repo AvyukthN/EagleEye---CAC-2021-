@@ -10,6 +10,8 @@ Our app is accurately able to the power of the patient's vision using computer v
 [Canny Edge-Detection](https://turbosnu.files.wordpress.com/2016/01/screenshot.jpg)
 [Focal Length](https://lh3.googleusercontent.com/proxy/9aP6Y3MryglG9-cKMtAG_CRW133Y5u2jZmGEro98uPERTdbzmRAB21czfF12XAny5oLOoohbCeuW-4xfHEiArSewFMUZdKFd1sFCTCs159DCmguGztiJf2XfU9w)
 
+<img src='https://turbosnu.files.wordpress.com/2016/01/screenshot.jpg' width=600>  
+
 # Step 1
 First, the user calibrates the app to their phone's camera. The app then accurately displays the distance the user is from an object and makes them walk 5 feet away. 
 
