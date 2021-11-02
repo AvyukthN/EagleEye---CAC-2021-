@@ -7,14 +7,13 @@ More than 30% of the world's population suffers from vision problem NOT includin
 # Procedure
 Our app is accurately able to the power of the patient's vision using computer vision (Canny Edge Detection) and focal vision/distance relationships.
 
-[Canny Edge-Detection](https://turbosnu.files.wordpress.com/2016/01/screenshot.jpg)
-[Focal Length](https://lh3.googleusercontent.com/proxy/9aP6Y3MryglG9-cKMtAG_CRW133Y5u2jZmGEro98uPERTdbzmRAB21czfF12XAny5oLOoohbCeuW-4xfHEiArSewFMUZdKFd1sFCTCs159DCmguGztiJf2XfU9w)
-
 <img src='https://turbosnu.files.wordpress.com/2016/01/screenshot.jpg' width=600>  
-<img src='https://bilimfili.com/hiperfizik/hbase/geoopt/imggo/leneq.gif' width=600>  
 
 # Step 1
 First, the user calibrates the app to their phone's camera. The app then accurately displays the distance the user is from an object and makes them walk 5 feet away. 
+
+Calibration - finds the focal length of the camera
+<img src="https://render.githubusercontent.com/render/math?math=\[FocalLength = \frac{(Pixel Width \cdot DistanceToObject)}{ObjectWidth}\]">
 
 # Step 2
 Next, the app allows the user to adjust the level of blur on the object. 
