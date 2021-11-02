@@ -15,11 +15,12 @@ First, the user calibrates the app to their phone's camera. The app then accurat
 Calibration - finds the focal length of the camera
 <br>
 <br>
-<br>
 <img src="https://render.githubusercontent.com/render/math?math=\FocalLength = \frac{(Pixel Width \cdot DistanceToObject)}{ObjectWidth}\]">
+<br>
+<img src="https://render.githubusercontent.com/render/math?math=\Distance = \frac{(Focal Length \cdot Object Width)}{Pixel Width}\]">
 
 # Step 2
-Next, the app allows the user to adjust the level of blur on the object. 
+Next, the app allows the user to adjust the level of blur on the object.
 
 # Step 3
 Once the level of blur displayed on the screen matches with what the user sees in real life, our app maps the blur level to a corresponding optical vision power (20/20, 20/50, etc.) to provide an approximation of the level of their vision.
