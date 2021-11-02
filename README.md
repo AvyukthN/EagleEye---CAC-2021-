@@ -12,8 +12,11 @@ Our app is accurately able to the power of the patient's vision using computer v
 # Step 1
 First, the user calibrates the app to their phone's camera. The app then accurately displays the distance the user is from an object and makes them walk 5 feet away. 
 
-Calibration - finds the focal length of the camera<br>
-<img src="https://render.githubusercontent.com/render/math?math=[\FocalLength = \frac{(Pixel Width \cdot DistanceToObject)}{ObjectWidth}\]">
+Calibration - finds the focal length of the camera
+<br>
+<br>
+<br>
+<img src="https://render.githubusercontent.com/render/math?math=\FocalLength = \frac{(Pixel Width \cdot DistanceToObject)}{ObjectWidth}\]">
 
 # Step 2
 Next, the app allows the user to adjust the level of blur on the object. 
