@@ -4,7 +4,7 @@ Eagle Eye is an application that can automatically prescribe lens powers to a us
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Snellen_chart.svg" width=200>
 
-# Inspo
+# Inspiration
 More than 30% of the world's population suffers from vision problem NOT including undiagnosed cases, of which there are over 1 billion
 
 # Procedure
